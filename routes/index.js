@@ -2,6 +2,9 @@ var express = require('express');
 var router = express.Router();
 
 const jokes = [
+  "A SQL query walks into a bar, walks up to two tables and asks: Can I join you?”,
+  "Q. Why do Java developers wear glasses? Because they don’t C#.",
+  "Q. Why do programmers prefer dark mode? Because the light attracts bugs.",
   "Q. How did the programmer die in the shower?\nA. He read the shampoo bottle instructions: Lather. Rinse. Repeat.",
   "Q. How many programmers does it take to change a light bulb?\nA. None – It’s a hardware problem!",
   "Q. Why do programmers always mix up Halloween and Christmas?\nA. Because Oct 31 equals Dec 25.",
